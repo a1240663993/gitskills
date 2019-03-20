@@ -1,1 +1,1 @@
-this is a test sample
+Git is a free software.
